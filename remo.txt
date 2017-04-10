@@ -1,0 +1,8 @@
+op-	git "hello" > README.md 
+	git init // file dirctory	first time
+	git add .  // folder here
+	git status // local repos
+	git commit -m "first commit"
+	git remote add origin https://github.com/Remon128/hello_world.git
+	git push -u origin master
+	
